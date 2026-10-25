@@ -1,0 +1,153 @@
+CustomerID,CustomerName,CustomerType,Description
+1,Zhang C H,Foodservice Distributor,Foodservice Distributor
+2,AVO Trading,Foodservice Distributor,"Distribution area is South Australia, Northern Territory, Mildura VIC, Broken Hill NSW and Kangaroo Island."
+3,Bell Bird Food Service,Foodservice Distributor,Foodservice Distributor
+4,Bibina,Foodservice Distributor,Retail Distributor
+5,Blockman Foods,Foodservice Distributor,Foodservice Distributor
+6,Chefs Pantry,Foodservice Distributor,Foodservice Distributor
+7,Creating Addictions,Foodservice Distributor,Foodservice Distributor
+8,Daily Fresh Food Service,Foodservice Distributor,Foodservice Distributor Erinfen Pty Ltd
+9,Devings Fine Foods,Foodservice Distributor,Foodservice Distributor
+10,Ecotel,Foodservice Distributor,Foodservice Distributor
+11,Epicurean Essentials,Foodservice Distributor,Foodservice Distributor
+12,EWH Food Services,Foodservice Distributor,
+13,Fermex Distributors,Foodservice Distributor,"Quality ingredients for bakers, pastry, cake and pie makers."
+14,Food Point,Foodservice Distributor,Foodservice Distributor
+15,Foodmont,Foodservice Distributor,Foodservice Distributor
+16,France Gourmet,Foodservice Distributor,Brisbane based supplier of ingredients for french style cooking.
+17,Global Confectionery,Foodservice Distributor,Global Confectionery distribute our retail products throughout Victoria.
+18,Gourmet & More,Foodservice Distributor,Retail Distributor
+19,Henfresh,Foodservice Distributor,Foodservice Distributor
+20,Holco,Foodservice Distributor,Foodservice Distributor
+21,Hong Australia,Foodservice Distributor,Foodservice Distributor
+22,Imports of France,Foodservice Distributor,Foodservice Distributor
+23,J&L Borgo,Foodservice Distributor,Foodservice Distributor
+24,Jimele Distibution,Foodservice Distributor,"Specialty food distributors to the hotel, restaurant, patisserie, retail and catering industry."
+25,JL Stewart & Son,Foodservice Distributor,
+26,Le Petit Gourmet,Foodservice Distributor,A family business distributing gourmet products Queensland wide.
+27,Locale Foods,Foodservice Distributor,Foodservice Distributor
+28,Savour Foodservice,Foodservice Distributor,Foodservice Distributor
+29,Southern Cross Supplies,Foodservice Distributor,Foodservice Distributor
+30,Southern Highlands Foods,Foodservice Distributor,Foodservice Distributor
+31,Taste of Paradise,Foodservice Distributor,Retail and Foodservice Distributor
+32,The Fearocious Feed,Foodservice Distributor,Foodservice Distributor
+33,The Foodshed,Foodservice Distributor,Foodservice Distributor
+34,The Grocer,Foodservice Distributor,Foodservice Distributor
+35,The Italian Pantry,Foodservice Distributor,Foodservice Distributor
+36,Visco Selected Fine Foods,Foodservice Distributor,"Manufactures and wholesales gourmet foods for caterers, restaurants, hotels and delicatessens."
+37,Saucy Sub,Foodservice Distributor,"A cheeky name that simply rolls off the tongue and is easy to remember, ideal for a sandwich shop."
+38,Yummy Spoonful,Foodservice Distributor,A cute and fun name for a business that prepares ready meals or a corner deli.
+39,Taste Cuts,Foodservice Distributor,A simple and effective name that is suitable for a meat processing business.
+40,Wise Pans,Foodservice Distributor,A unique and intriguing name that suggests a cost-effective catering company.
+41,Fried Flavor,Foodservice Distributor,A name that is easy to remember. Suitable for a business that prepares a variety of fried foods.
+42,Saucy Plate,Foodservice Distributor,"A sassy name that taunts the taste buds with a promise of delicious food, ideal for a caterer."
+43,Fried Cafe,Foodservice Distributor,A fun name for a small restaurant that offers a variety of fried food dishes or a fried food brand.
+44,Frozen Fork,Foodservice Distributor,A short and catchy name for a business that prepares frozen meals.
+45,Spoonful Deli,Foodservice Distributor,A delightful and fun name for a deli or food business that offers a generous variety of snack foods.
+46,Succeed Food,Foodservice Distributor,"An upbeat name that suggests positive outcomes and benefits, suitable for a health food business."
+47,Epicurean Essentials,Foodservice Distributor,Foodservice Distributor
+48,About Life,Retail Stockist,
+49,Accoutrement,Retail Stockist,
+50,Blackwattle Deli,Retail Stockist,
+51,Bowral's Sweets & Treats,Retail Stockist,
+52,Chocogram,Retail Stockist,
+53,Colless Foods,Retail Stockist,
+54,Forest Way Fresh,Retail Stockist,
+55,Gallegher Specialty Store,Retail Stockist,
+56,Garian Foods,Retail Stockist,
+57,Lee M H,Retail Stockist,
+58,Leisure Coast Fruit Market,Retail Stockist,
+59,Martelli’s Markets,Retail Stockist,
+60,Martelli's Fruit Market,Retail Stockist,
+61,Norton St Grocer Bondi Junction,Retail Stockist,
+62,Norton St Grocer Leichhardt,Retail Stockist,
+63,Nuts About Candy,Retail Stockist,
+64,Palm Beach Wine Co.,Retail Stockist,
+65,Parisi’s Food Hall,Retail Stockist,
+66,Pendle Stores,Retail Stockist,
+67,Primo Fine Foods,Retail Stockist,
+68,Royal Randwick Fruit Market,Retail Stockist,
+69,Saucy Sub,Retail Stockist,
+70,Something Special Gifts,Retail Stockist,
+71,The Berry Bon Bon,Retail Stockist,
+72,The Candy Store,Retail Stockist,
+73,The Essential Ingredient,Retail Stockist,
+74,The Treat Factory,Retail Stockist,
+75,The Village Grocer,Retail Stockist,
+76,Visco Selected Fine Foods,Retail Stockist,
+77,Yummy Spoonful,Retail Stockist,
+78,Myer,Retail Stockist,
+79,David Jones Foodhalls,Retail Stockist,
+80,Taste Cuts,Retail Stockist,
+81,Favourite Flavours,Retail Stockist,
+82,Gum Tree Good Food (Albert Park),Retail Stockist,
+83,HEY TIGER,Retail Stockist,
+84,I'm Sugar Free,Retail Stockist,
+85,LaManna Direct,Retail Stockist,
+86,IGA Kingston,Retail Stockist,
+87,The Lolly Shop,Retail Stockist,
+88,Davies Chocolates Pty Ltd,Retail Stockist,
+89,Taste Cuts,Retail Stockist,
+90,Wise Pans,Retail Stockist,
+91,Fried Flavor,Retail Stockist,
+92,Saucy Plate,Retail Stockist,
+93,Fried Cafe,Retail Stockist,
+94,Choc Haven,Retail Stockist,
+95,Go Vita,Retail Stockist,
+96,The Lolly Shop,Retail Stockist,
+97,A Bongiovanni & Son,Retail Stockist,
+98,Aherns Fruit Market & Fine Foods,Retail Stockist,
+99,Bairnsdale Gourmet Deli,Retail Stockist,
+100,Barwon Foods,Retail Stockist,
+101,Black Rock Chocolates,Retail Stockist,
+102,Blairgowrie IGA,Retail Stockist,
+103,Brighton Chocolates,Retail Stockist,
+104,CBG Foodservice,Retail Stockist,
+105,CHUNG’S ORIENTAL TRADING P/L,Retail Stockist,
+106,"Darrell Lea, Geelong",Retail Stockist,
+107,Favourite Flavours,Retail Stockist,
+108,Gum Tree Good Food (Albert Park),Retail Stockist,
+109,Le Petit Lapin,Retail Stockist,
+110,Leo’s Fine Food and Wine – Hartwell,Retail Stockist,
+111,Leo’s Fine Food and Wine – Heidelberg,Retail Stockist,
+112,Leo’s Fine Food and Wine – Kew,Retail Stockist,
+113,Mansfield Sweets,Retail Stockist,
+114,Maxi Foods – Upper Ferntree Gully,Retail Stockist,
+115,Newtown Licensed Grocery,Retail Stockist,
+116,Port Fairy Confectionery,Retail Stockist,
+117,Rathdowne Village Deli,Retail Stockist,
+118,SM BRANDS,Retail Stockist,
+119,Spoonful,Retail Stockist,
+120,Stringers Stores Sorento,Retail Stockist,
+121,Taffys on Looker Cafe,Retail Stockist,
+122,Choc Haven,Retail Stockist,
+123,Go Vita,Retail Stockist,
+124,The Lolly Shop,Retail Stockist,
+125,The Pantry,Retail Stockist,
+126,4 Cousins,Retail Stockist,
+127,The Produce Store,Retail Stockist,
+128,The Complete Basketcase,Retail Stockist,
+129,Renaissance IGA Hawthon Square,Retail Stockist,
+130,Renaissance IGA Glenferrie Hawthorn,Retail Stockist,
+131,IGA Northcote,Retail Stockist,
+132,Choc Haven,Retail Stockist,
+133,Go Vita,Retail Stockist,
+134,The Lolly Shop,Retail Stockist,
+135,Deli Alemente,Retail Stockist,
+136,Deli Cravings,Retail Stockist,
+137,Deli Planet,Retail Stockist,
+138,Down Town Milk Bar,Retail Stockist,
+139,Go Vita,Retail Stockist,
+140,Hansel and Gretal,Retail Stockist,
+141,Healthy Life,Retail Stockist,
+142,The Lolly Shop,Retail Stockist,
+143,Choc Haven,Retail Stockist,
+144,Go Vita,Retail Stockist,
+145,The Lolly Shop,Retail Stockist,
+146,Stringers Stores Sorento,Retail Stockist,
+147,Go Vita,Retail Stockist,
+148,Pure Indulgence Fine Chocolates,Retail Stockist,
+149,Chocolate Stop,Retail Stockist,
+150,Heavenly,Retail Stockist,
+151,"Darrell Lea, Darwin",Retail Stockist,
+152,Favourite Flavours,Retail Stockist,

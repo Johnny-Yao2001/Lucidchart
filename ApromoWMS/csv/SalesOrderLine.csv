@@ -1,0 +1,6 @@
+SalesOrderLineID,SalesOrderID,ProductID,RequestedQty
+1,1,1,10
+2,2,2,20
+3,3,3,10
+4,4,6,10
+5,5,7,5

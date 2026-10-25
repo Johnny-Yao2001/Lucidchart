@@ -1,0 +1,67 @@
+{
+  "engine": "SQLite in-memory; independently verifies query logic and sample outputs only",
+  "schema_tables": 24,
+  "foreign_key_check": "passed",
+  "queries_executed": 4,
+  "results": [
+    [
+      {
+        "TotalPickLines": 5,
+        "VerifiedPickLines": 4,
+        "UnverifiedPickLines": 1,
+        "VerifiedPickedQty": 50,
+        "VerifiedCorrectQty": 48,
+        "UnitPickingAccuracyPct": 96.0,
+        "FullyCorrectLinePct": 75.0
+      }
+    ],
+    [
+      {
+        "DueShipments": 4,
+        "DeliveredShipments": 3,
+        "OnTimeDeliveredShipments": 2,
+        "OverdueUndeliveredShipments": 1,
+        "DueShipmentOnTimePct": 50.0,
+        "DeliveredOnlyOnTimePct": 66.66666666666667
+      }
+    ],
+    [
+      {
+        "SupplierID": 1,
+        "SupplierName": "Butlers",
+        "DuePurchaseOrders": 5,
+        "FullyReceivedOrders": 4,
+        "OnTimeFullyReceivedOrders": 3,
+        "OverdueIncompleteOrders": 1,
+        "DueOrderOnTimeReceiptPct": 60.0,
+        "CompletedOnlyOnTimeReceiptPct": 75.0
+      }
+    ],
+    [
+      {
+        "WarehouseID": 1,
+        "WarehouseName": "Sydney - DEMO",
+        "ActiveStorageLocations": 2,
+        "OccupiedStorageLocations": 2,
+        "EmptyStorageLocations": 0,
+        "CurrentCapacityUsedPct": 100.0
+      },
+      {
+        "WarehouseID": 2,
+        "WarehouseName": "Melbourne - DEMO",
+        "ActiveStorageLocations": 2,
+        "OccupiedStorageLocations": 1,
+        "EmptyStorageLocations": 1,
+        "CurrentCapacityUsedPct": 50.0
+      }
+    ]
+  ],
+  "edge_cases_passed": [
+    "verification_after_cutoff_excluded",
+    "receipt_after_cutoff_excluded",
+    "zero_quantity_location_counts_as_empty",
+    "empty_picking_scope_returns_NULL_rate",
+    "zero_active_capacity_returns_NULL_rate"
+  ],
+  "sql_server_execution": "NOT RUN: official image layers blocked by network proxy (403). SQL Server-specific syntax and BULK INSERT still require SSMS confirmation."
+}

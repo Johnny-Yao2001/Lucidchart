@@ -1,0 +1,174 @@
+{
+  "Supplier": [
+    "SupplierID",
+    "SupplierName",
+    "Website",
+    "Email"
+  ],
+  "ProductCategory": [
+    "CategoryID",
+    "CategoryName"
+  ],
+  "ProductGroup": [
+    "ProductGroupID",
+    "GroupName",
+    "ProductStream"
+  ],
+  "Product": [
+    "ProductID",
+    "CategoryID",
+    "ProductGroupID",
+    "SourceProductID",
+    "Description",
+    "UnitOfMeasure",
+    "UnitPrice",
+    "Discontinued",
+    "MinTempC",
+    "MaxTempC",
+    "GTIN"
+  ],
+  "ProductSupplier": [
+    "ProductSupplierID",
+    "ProductID",
+    "SupplierID",
+    "SupplierProductCode",
+    "IsPreferred"
+  ],
+  "Warehouse": [
+    "WarehouseID",
+    "WarehouseName",
+    "City",
+    "Address"
+  ],
+  "Worker": [
+    "WorkerID",
+    "WarehouseID",
+    "WorkerName",
+    "EmploymentType"
+  ],
+  "StorageLocation": [
+    "LocationID",
+    "WarehouseID",
+    "LocationCode",
+    "ZoneType",
+    "MinTempC",
+    "MaxTempC",
+    "IsActive"
+  ],
+  "Customer": [
+    "CustomerID",
+    "CustomerName",
+    "CustomerType",
+    "Description"
+  ],
+  "CustomerSite": [
+    "CustomerSiteID",
+    "CustomerID",
+    "SiteName",
+    "Address",
+    "StateRegion",
+    "Postcode",
+    "Country",
+    "Phone",
+    "Email",
+    "Website"
+  ],
+  "PurchaseOrder": [
+    "PurchaseOrderID",
+    "SupplierID",
+    "WarehouseID",
+    "OrderedAt",
+    "ExpectedAt",
+    "Status"
+  ],
+  "PurchaseOrderLine": [
+    "PurchaseOrderLineID",
+    "PurchaseOrderID",
+    "ProductID",
+    "OrderedQty",
+    "UnitCost"
+  ],
+  "Receipt": [
+    "ReceiptID",
+    "PurchaseOrderID",
+    "WorkerID",
+    "ReceivedAt",
+    "Status"
+  ],
+  "ReceiptLine": [
+    "ReceiptLineID",
+    "ReceiptID",
+    "PurchaseOrderLineID",
+    "ReceivedQty"
+  ],
+  "InventoryLot": [
+    "LotID",
+    "ProductID",
+    "LotCode",
+    "ExpiryDate"
+  ],
+  "ReceiptLineLot": [
+    "ReceiptLineLotID",
+    "ReceiptLineID",
+    "LotID",
+    "ReceivedQty"
+  ],
+  "StockBalance": [
+    "StockBalanceID",
+    "LotID",
+    "LocationID",
+    "OnHandQty",
+    "LastUpdatedAt"
+  ],
+  "TemperatureLog": [
+    "TemperatureLogID",
+    "LocationID",
+    "RecordedAt",
+    "TemperatureC"
+  ],
+  "SalesOrder": [
+    "SalesOrderID",
+    "CustomerSiteID",
+    "WarehouseID",
+    "OrderedAt",
+    "PromisedDeliveryAt",
+    "Status"
+  ],
+  "SalesOrderLine": [
+    "SalesOrderLineID",
+    "SalesOrderID",
+    "ProductID",
+    "RequestedQty"
+  ],
+  "PickLine": [
+    "PickLineID",
+    "SalesOrderLineID",
+    "WorkerID",
+    "StockBalanceID",
+    "PickedQty",
+    "CorrectQty",
+    "PickedAt",
+    "VerifiedAt"
+  ],
+  "Shipment": [
+    "ShipmentID",
+    "SalesOrderID",
+    "DeliveryMethod",
+    "CarrierName",
+    "DispatchedAt",
+    "DeliveredAt",
+    "DeliveryTempC"
+  ],
+  "ShipmentLine": [
+    "ShipmentLineID",
+    "ShipmentID",
+    "SalesOrderLineID",
+    "ShippedQty"
+  ],
+  "ShipmentLineLot": [
+    "ShipmentLineLotID",
+    "ShipmentLineID",
+    "LotID",
+    "ShippedQty"
+  ]
+}

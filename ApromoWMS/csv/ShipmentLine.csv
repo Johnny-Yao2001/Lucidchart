@@ -1,0 +1,4 @@
+ShipmentLineID,ShipmentID,SalesOrderLineID,ShippedQty
+1,1,1,10
+2,2,2,18
+3,3,3,10

@@ -1,0 +1,177 @@
+CustomerSiteID,CustomerID,SiteName,Address,StateRegion,Postcode,Country,Phone,Email,Website
+1,1,Zhang C H,"88 Sussex St, Sydney, NSW 2001",NSW,2001,Australia,0478 707 649,,
+2,2,AVO Trading,5 Armiger Court Holden Hill SA 5088,SA,5088,Australia,08 8395 7548,orders@avotrading.com.au,http://www.avotrading.com.au
+3,3,Bell Bird Food Service,"Unit 5, 26 Megalong St Katoomba NSW 2780",NSW,2780,Australia,02 5845 6958,bellbird@yahoo.com,
+4,4,Bibina,355 Hillsborough Road Warners Bay NSW 2282,NSW,2282,Australia,02 4954 6044,,https://www.bibina.com.au
+5,5,Blockman Foods,"Lvl30/ 66 Goulburn St, Sydney, NSW 2000",NSW,2000,Australia,(02) 9331 4451,blockman@gmail.com,
+6,6,Chefs Pantry,"Factory 3 / 170 Boundary Road, Braeside VIC 3195",VIC,3195,Australia,(03) 9580 4477,info@chefspantry.com.au,https://www.chefspantry.com.au
+7,7,Creating Addictions,3 Cornwall Close Terrigal NSW 2260,NSW,2260,Australia,4354 2446,creatingaddictions@gmail.com,http://www.creatingaddictions.com.au
+8,8,Daily Fresh Food Service,353 Chisholm Road Regents Park NSW 2143,NSW,2143,Australia,02 9644 0000,enquiries@dailyfresh.com.au,http://www.dailyfresh.com.au
+9,9,Devings Fine Foods,5 / 241 Camboon Road Malaga WA 6090,WA,6090,Australia,08 9248 5834,sales@devings.com.au,http://www.devings.com.au
+10,10,Ecotel,45 Gilbert St Adelaide SA 5000,SA,5000,Australia,08 84103633,sales@ecotel.asia,http://www.ecotel.asia
+11,11,Epicurean Essentials,Unit 2 / 41A Sunbeam Road Glynde SA 5070,SA,5070,Australia,0419 330 139,,
+12,12,EWH Food Services,119 Vanessa St Kingsgrove NSW 220,,,Australia,(02) 9503 3333,sales@ewhfoodservices.com.au,http://www.ewhfoodservices.com.au
+13,13,Fermex Distributors,21 Walker St Tennyson QLD 4105,QLD,4105,Australia,07 3892 3455,,
+14,14,Food Point,"26 Oakdale Road, Gateshead NSW",,,Australia,02 4957 7277,sales@foodpointnsw.com.au,
+15,15,Foodmont,15 Senna Road Wingfield SA 5013,SA,5013,Australia,08 8359 6159,,
+16,16,France Gourmet,1 / 32 Porter St Hemmant QLD 4174,QLD,4174,Australia,07 3390 8477,info@francegourmet.com.au,http://www.francegourmet.com.au
+17,17,Global Confectionery,"Unit 8, 114 Canterbury Rd Kilsyth VIC 3137",VIC,3137,Australia,03 9761 5012,globalconfectionery@gmail.com,http://www.globalconfectionery.com
+18,18,Gourmet & More,Unit 3 / 4 Zeta Crescent O'Connor WA 6163,WA,6163,Australia,(08) 9337 8634,hello@gourmetandmore.com.au,http://gourmetandmore.com.au/
+19,19,Henfresh,182 Grange Avenue Schofields NSW 2762,NSW,2762,Australia,02 9627 4333,info@henfresh.com.au,http://www.henfresh.com.au
+20,20,Holco,156 Churchill Rd North Cavan SA 5094,SA,5094,Australia,(08) 8162 8400,,http://www.holco.com.au
+21,21,Hong Australia,176 Power Street Doonside NSW 2767,NSW,2767,Australia,02 8805 1400,sales@jlstewart.com.au,http://www.jlstewart.com.au
+22,22,Imports of France,Unit 3 - 6 / 38 Thornton Crescent Mitcham VIC 3132,VIC,3132,Australia,03 9872 3945,,http://www.importsoffrance.com.au
+23,23,J&L Borgo,"289-295 Princes Hwy, Kembla Grange NSW 2526",NSW,2526,Australia,02 4423 0033,john@jlborgo.com.au,
+24,24,Jimele Distibution,Unit 3 / 28 - 34 Nevilles Street Underwood QLD 4119,QLD,4119,Australia,07 3808 2037,info@jimele.com.au,http://www.jimele.com.au
+25,25,JL Stewart & Son,176 Power Street Doonside NSW 2767,NSW,2767,Australia,02 8805 1400,sales@jlstewart.com.au,http://www.jlstewart.com.au
+26,26,Le Petit Gourmet,2 / 4 Natasha St Capalaba QLD 4157,QLD,4157,Australia,07 5448 8634,info@lepetitgourmet.com.au,http://www.lepetitgourmet.com.au
+27,27,Locale Foods,14 Valley View Close Milton NSW 2538,NSW,2538,Australia,02 9588 2456,,
+28,28,Savour Foodservice,141 Bathurst Street Hobart TAS 7000,TAS,7000,Australia,0418 915 683,,http://www.savourfoods.com.au/
+29,29,Southern Cross Supplies,6B Rich Street Marrickville NSW 2204,NSW,2204,Australia,02 9572 7888,info@southerncrosssupplies.com.au,http://www.southerncrosssupplies.com.au
+30,30,Southern Highlands Foods,"6 Hampshire Lane, Goulburn NSW 2580",NSW,2580,Australia,02 4821 3995,Kathy@vandcfoods.com.au,
+31,31,Taste of Paradise,6 Fleet Street Moonah TAS 7009,TAS,7009,Australia,1800 600 654,,http://www.tasteofparadise.com.au
+32,32,The Fearocious Feed,"Unit 2, 68 Christian Rd Punchbowl NSW 2196",NSW,2196,Australia,02 9758 9666,info@fearociousfeed.com.au,http://www.fearociousfeed.com.au
+33,33,The Foodshed,53A Vincent Rd Wangaratta VIC 3677,VIC,3677,Australia,03 5722 4980,,http://thefoodshed.com.au/
+34,34,The Grocer,69 Tacoma Circuit Canning Vale WA 6155,WA,6155,Australia,08 9455 1611,admin@thegrocer.com.au,http://www.thegrocer.com.au
+35,35,The Italian Pantry,27 - 29 Federal Street North Hobart TAS 7000,TAS,7000,Australia,03 6231 2788,,http://www.italianpantry.com.au/
+36,36,Visco Selected Fine Foods,126 Gosport St Hemmant QLD 4174,QLD,4174,Australia,07 3393 3553,,http://www.viscofoods.com
+37,37,Saucy Sub,21 Walker St Tennyson QLD 4105,QLD,4105,Australia,8 3393 3553,,
+38,38,Yummy Spoonful,"26 Oakdale Road, Gateshead NSW",,,Australia,9 3393 3553,,
+39,39,Taste Cuts,15 Senna Road Wingfield SA 5013,SA,5013,Australia,10 3393 3553,,
+40,40,Wise Pans,1 / 32 Porter St Hemmant QLD 4174,QLD,4174,Australia,11 3393 3553,,
+41,41,Fried Flavor,"Unit 8, 114 Canterbury Rd Kilsyth VIC 3137",VIC,3137,Australia,12 3393 3553,,
+42,42,Saucy Plate,Unit 3 / 4 Zeta Crescent O'Connor WA 6163,WA,6163,Australia,13 3393 3553,,
+43,43,Fried Cafe,182 Grange Avenue Schofields NSW 2762,NSW,2762,Australia,14 3393 3553,,
+44,44,Frozen Fork,156 Churchill Rd North Cavan SA 5094,SA,5094,Australia,15 3393 3553,,
+45,45,Spoonful Deli,"Unit 5, 26 Megalong St Katoomba NSW 2780",NSW,2780,Australia,16 3393 3553,,
+46,46,Succeed Food,355 Hillsborough Road Warners Bay NSW 2282,NSW,2282,Australia,17 3393 3553,,
+47,6,Chefs Pantry,"Factory 3 / 170 Boundary Road, Braeside VIC 3195",VIC,3195,Australia,(03) 9580 4477,info@chefspantry.com.au,https://www.chefspantry.com.au
+48,7,Creating Addictions,3 Cornwall Close Terrigal NSW 2260,NSW,2260,Australia,4354 2446,creatingaddictions@gmail.com,http://www.creatingaddictions.com.au
+49,8,Daily Fresh Food Service,353 Chisholm Road Regents Park NSW 2143,NSW,2143,Australia,02 9644 0000,enquiries@dailyfresh.com.au,http://www.dailyfresh.com.au
+50,9,Devings Fine Foods,5 / 241 Camboon Road Malaga WA 6090,WA,6090,Australia,08 9248 5834,sales@devings.com.au,http://www.devings.com.au
+51,10,Ecotel,45 Gilbert St Adelaide SA 5000,SA,5000,Australia,08 84103633,sales@ecotel.asia,http://www.ecotel.asia
+52,47,Epicurean Essentials,Unit 2 / 41A Sunbeam Road Glynde SA 5070,SA,5070,Australia,0419 330 139,,
+53,48,About Life,605 Darling Street Rozelle,NSW,,Australia,02 9554 3248,,http://aboutlife.com.au/store/
+54,48,About Life,31 - 37 Oxford Street Bondi Junction NSW,NSW,,Australia,,,http://aboutlife.com.au/store/content/373/Bondi-Junction/
+55,48,About Life,520 Miller Street Cammeray NSW,NSW,,Australia,,,http://aboutlife.com.au/store/content/376/cammeray/
+56,48,About Life,1 Kiaora Lane Double Bay NSW,NSW,,Australia,,,http://aboutlife.com.au/store/content/451/Double-Bay/
+57,49,Accoutrement,611 Military Road Mosman NSW 2088,NSW,2088,Australia,02 9969 1031,,http://www.accoutrement.com.au/
+58,50,Blackwattle Deli,"Sydney Fish Markets, Bank St, Pyrmont, Sydney NSW 2009",NSW,2009,Australia,(02) 9660 6998,,
+59,51,Bowral's Sweets & Treats,High Street Arcade Bowral NSW 2576,NSW,2576,Australia,(02) 4861 3975,,
+60,52,Chocogram,590 Botany Road Alexandria,NSW,,Australia,02 8060 2994,,https://www.chocogram.com.au
+61,53,Colless Foods,32 Woodlands Road Katoomba NSW 2780,NSW,2780,Australia,02 4780 1100,,
+62,54,Forest Way Fresh,341 Mona Vale Road Terrey Hills NSW 2084,NSW,2084,Australia,(02) 9486 3340,,http://www.forestwayfresh.com/
+63,55,Gallegher Specialty Store,"175 Scott St, Newcastle, NSW 2300",NSW,2300,Australia,(02) 4927 0096,,
+64,56,Garian Foods,"2/13 Douglas Mawson Drive, Dubbo NSW 2830",NSW,2830,Australia,02 6884 1166,,
+65,57,Lee M H,"199 King St, Newcastle, NSW 2300",NSW,2300,Australia,(02) 4929 2591,,
+66,58,Leisure Coast Fruit Market,"75 Princes Highway Fairy Meadow, NSW 2519",NSW,2519,Australia,02 4285 1211 or 02 4285 1168,,http://lcfruitanddeli.com.au/
+67,59,Martelli’s Markets,"Rouse Hill Town Centre, Windsor Rd, Rouse Hill NSW 2155",NSW,2155,Australia,(02) 9836 5500,,
+68,60,Martelli's Fruit Market,28 Shepherds Dr Cherrybrook NSW 2126,NSW,2126,Australia,(02) 9481 0444,,
+69,61,Norton St Grocer Bondi Junction,"Fresh Food Hall Shop 1027 Westfield Shopping Centre, Bondi Junction NSW 2022",NSW,2022,Australia,(02) 9386 5800,,http://www.nortonstgrocer.com.au/store/bondi-junction/
+70,62,Norton St Grocer Leichhardt,"Shop B1, 51-57 Norton Street (Norton St. Plaza), Leichhardt NSW 2040",NSW,2040,Australia,(02) 9572 7511,,http://www.nortonstgrocer.com.au/store/leichhardt/
+71,63,Nuts About Candy,Westfields Hurstville NSW,NSW,,Australia,02 9580 0585,,
+72,64,Palm Beach Wine Co.,1109 Barrenjoey Road Palm Beach NSW 2108,NSW,2108,Australia,02 9974 4304,,http://palmbeachwineco.com/
+73,65,Parisi’s Food Hall,"19-21 Dover Rd, Rose Bay NSW 2029",NSW,2029,Australia,(02) 9371 2411,,http://www.parisisfoodhall.com.au/
+74,66,Pendle Stores,"53 Walker St, North Sydney, NSW 2060",NSW,2060,Australia,(02) 9956 7584,,
+75,67,Primo Fine Foods,"19 Garema Circuit, Kingsgrove NSW 2208",NSW,2208,Australia,02 4423 0033,,
+76,68,Royal Randwick Fruit Market,"13/73-109 Belmore Road, Randwick NSW 2031",NSW,2031,Australia,(02) 9399 8296,,
+77,69,Saucy Sub,21 Walker St Tennyson NSW 4105,NSW,4105,Australia,8 3393 3553,,
+78,70,Something Special Gifts,"175 Auburn St, Goulburn NSW, 2580",NSW,,Australia,02 48219001,,https://www.something-special.net.au/
+79,71,The Berry Bon Bon,"Shop 3, 90 Alexandra Street Berry NSW 2535",NSW,2535,Australia,(02) 4464 2278,,http://www.theberrybonbon.com.au/
+80,72,The Candy Store,Shop 6 178 Leura Mall Leura NSW 2780,NSW,2780,Australia,(02) 4782 4090,,http://candystore.com.au/
+81,73,The Essential Ingredient,731-735 Darling St Rozelle NSW 2039,NSW,2039,Australia,(02) 9555 8300,,http://www.sydneyessential.com.au/
+82,74,The Treat Factory,Old Creamery Lane Berry NSW 2535,NSW,2535,Australia,02 4464 1112,,http://www.treatfactory.com.au/
+83,75,The Village Grocer,Shop 72 Stockland 197-215 Condamine Street Balgowlah NSW 2093,NSW,2093,Australia,02 9949 4355,,http://www.thevillagegrocer.com.au/
+84,76,Visco Selected Fine Foods,126 Gosport St Hemmant NSW 4174,NSW,4174,Australia,07 3393 3553,,
+85,77,Yummy Spoonful,"26 Oakdale Road, Gateshead NSW",NSW,,Australia,9 3393 3553,,
+86,78,Myer,"54 Norman St, East Brisbane, New Zealand4169",,,New Zealand,(+63) 3391 6412,,https://myer.com.au
+87,79,David Jones Foodhalls,"1 Lomond Tce, East Brisbane, New Zealand4169",,,New Zealand,(+63) 3391 2281,,https://davidjones.com.au
+88,80,Taste Cuts,15 Senna Road Wingfield New Zealand5013,,,New Zealand,(+63) 3391 2282,,
+89,81,Favourite Flavours,"37 Mitchell St, Bendigo, New Zealand 3550",,,New Zealand,+63 5444 2147,,
+90,82,Gum Tree Good Food (Albert Park),87-89 Dundas Place Albert Park New Zealand 3206,,,New Zealand,,,
+91,83,HEY TIGER,121 KING STREET MELBOURNE New Zealand,,,New Zealand,+63 6984 2019,,https://heytiger.com.au
+92,84,I'm Sugar Free,"21 Peel St, West Melbourne New Zealand 3003",,,New Zealand,+63 8348 5100,,http://www.imsugarfree.com.au/
+93,85,LaManna Direct,"10 English St, Essendon Fields New Zealand 3041",,,New Zealand,+63 9026 9205,,https://www.lamannadirect.com.au
+94,86,IGA Kingston,"66 Giles Street, Kingston, New Zealand 2604",,,New Zealand,N/A,,http://stores.iga.com.au/store/iga-kingston-2.html
+95,87,The Lolly Shop,"Federation Square, O’Hanlon Place, Nicholls 2913",,,New Zealand,6230 2556,,
+96,88,Davies Chocolates Pty Ltd,"181 Kingsgrove Rd, Kingsgrove, New Zealand, 2609",,,New Zealand,++63 2 9502 2811,,https://daveschocolates.com.au
+97,78,Myer,"54 Norman St, East Brisbane, QLD 4169",QLD,4169,Australia,(07) 3391 6412,,https://myer.com.au
+98,79,David Jones Foodhalls,"1 Lomond Tce, East Brisbane, QLD 4169",QLD,4169,Australia,(07) 3391 2281,,https://davidjones.com.au
+99,89,Taste Cuts,15 Senna Road Wingfield QLD 5013,QLD,5013,Australia,(07) 3391 2282,,
+100,90,Wise Pans,1 / 32 Porter St Hemmant QLD 4174,QLD,4174,Australia,(07) 3391 2283,,
+101,91,Fried Flavor,"Unit 8, 114 Canterbury Rd Kilsyth QLD 3137",QLD,3137,Australia,(07) 3391 2284,,
+102,92,Saucy Plate,Unit 3 / 4 Zeta Crescent O'Connor QLD 6163,QLD,6163,Australia,(07) 3391 2285,,
+103,93,Fried Cafe,182 Grange Avenue Schofields QLD 2762,QLD,2762,Australia,(07) 3391 2286,,
+104,94,Choc Haven,"37 Kitchener Street, Brisbane, QLD, 2600",QLD,,Australia,61 2 9524 8331,,
+105,95,Go Vita,"Lvl8/ 15 London Cct, Brisbane, QLD 2600",QLD,2600,Australia,(02) 6249 1444,,
+106,96,The Lolly Shop,"34 Marcus Clarke St, Brisbane, QLD 2601",QLD,2601,Australia,(02) 6169 5074,,
+107,97,A Bongiovanni & Son,"176 - 178 Victoria St, Seddon, VIC 3011",VIC,3011,Australia,03 9689 8669,,
+108,98,Aherns Fruit Market & Fine Foods,"29 Toora Road, Foster, VIC 3960",VIC,3960,Australia,03 5682 2095,,
+109,99,Bairnsdale Gourmet Deli,"144 Main St, Bairnsdale, VIC 3875",VIC,3875,Australia,03 5152 1544,,
+110,100,Barwon Foods,"18-20 Donga Road, North Geelong VIC 3215",VIC,3215,Australia,03 5278 6433,,https://barwonfoods.com.au
+111,101,Black Rock Chocolates,"4 Bluff Rd, Black Rock, VIC 3193",VIC,3193,Australia,03 9589 0555,,
+112,102,Blairgowrie IGA,"2833 - 2835 Point Nepean Road, Blairgowrie, VIC 394",VIC,,Australia,03 5988 8550,,
+113,103,Brighton Chocolates,"334 Bay Street, Brighton, VIC 3186",VIC,3186,Australia,03 9596 6418,,
+114,104,CBG Foodservice,"88-90 Rebecca Drive, Ravenhall VIC",VIC,,Australia,03 5975 6695,,https://CBG.com.au
+115,105,CHUNG’S ORIENTAL TRADING P/L,49 ALLIED DRIVE TULLERMARINE VIC,VIC,,Australia,03 5984 2019,,https://Coriental.com.au
+116,106,"Darrell Lea, Geelong","71 Malop St, Geelong VIC 3220",VIC,3220,Australia,(03) 5221 6106,,
+117,107,Favourite Flavours,"37 Mitchell St, Bendigo, VIC 3550",VIC,3550,Australia,03 5444 2147,,
+118,108,Gum Tree Good Food (Albert Park),87-89 Dundas Place Albert Park VIC 3206,VIC,3206,Australia,,,
+119,83,HEY TIGER,121 KING STREET MELBOURNE VIC,VIC,,Australia,03 6984 2019,,https://heytiger.com.au
+120,84,I'm Sugar Free,"21 Peel St, West Melbourne VIC 3003",VIC,3003,Australia,03 8348 5100,,http://www.imsugarfree.com.au/
+121,85,LaManna Direct,"10 English St, Essendon Fields VIC 3041",VIC,3041,Australia,03 9026 9205,,https://www.lamannadirect.com.au
+122,109,Le Petit Lapin,"322 Glen Eira Road, Elsternwick VIC 2185",VIC,2185,Australia,03 9528 2788,,http://www.lepetitlapin.com.au/
+123,110,Leo’s Fine Food and Wine – Hartwell,"2 Summerhill Rd, Glen Iris VIC 3146",VIC,3146,Australia,03 9889 1881,,
+124,111,Leo’s Fine Food and Wine – Heidelberg,"133-137 Burgundy St, Heidelberg, VIC 3084",VIC,3084,Australia,03 9243 3733,,
+125,112,Leo’s Fine Food and Wine – Kew,"26 Princess St, Kew, VIC 3101",VIC,3101,Australia,03 9853 8314,,
+126,113,Mansfield Sweets,"92 High St, Mansfield, VIC 3722",VIC,3722,Australia,03 5773221,,
+127,114,Maxi Foods – Upper Ferntree Gully,"Shop 2, 1202 Burwood Hwy, Upper Ferntree Gully, VIC 3156",VIC,3156,Australia,03 9752 4299,,
+128,115,Newtown Licensed Grocery,"19 Stinton Ave, Newtown, VIC, 3220",VIC,,Australia,(03) 5221 1628,,
+129,116,Port Fairy Confectionery,"53 Sackville St, Port Fairy VIC 3284",VIC,3284,Australia,(03) 5568 2977,,https://www.facebook.com/portfairyconfectionery/
+130,117,Rathdowne Village Deli,"378 Rathdowne St, Carlton North, VIC 3054",VIC,3054,Australia,03 9347 4181,,
+131,118,SM BRANDS,137 GREEN STREET RICHMOND VIC,VIC,,Australia,03 5985 2019,,https://smbrands.com.au
+132,119,Spoonful,"543A High St, Prahran, VIC 3181",VIC,3181,Australia,03 9521 5212,,https://spoonful.net.au
+133,120,Stringers Stores Sorento,"2-8 Ocean Beach Road, Sorrento, VIC 3943",VIC,3943,Australia,03 5984 2010,,
+134,121,Taffys on Looker Cafe,"15 Looker Road, Montmorency, VIC 3094",VIC,3094,Australia,03 9439 5196,,https://www.taffysonlooker.com
+135,122,Choc Haven,"37 Kitchener Street, Melbourne, VIC, 2600",VIC,,Australia,61 2 9524 8331,,https://www.thechocolatekettle.com.au
+136,123,Go Vita,"Lvl8/ 15 London Cct, Melbourne, VIC 2600",VIC,2600,Australia,(02) 6249 1444,,
+137,124,The Lolly Shop,"34 Marcus Clarke St, Melbourne, VIC 2601",VIC,2601,Australia,(02) 6169 5074,,https://www.thenewtownprovedore.com.au
+138,125,The Pantry,"Shop 10, 750 Collins St, Melbourne, VIC 3008",VIC,3008,Australia,03 9670 7425,,https://thepantry.com.au
+139,126,4 Cousins,"363-383 Nepean Hwy, Parkdale VIC 3195",VIC,3195,Australia,(03) 9580 0591,,http://www.4cousins.com.au/
+140,127,The Produce Store,"68 High St, Mansfield VIC 3722",VIC,3722,Australia,(03) 5779 1404,,https://www.theproducestore.com.au
+141,128,The Complete Basketcase,,VIC,,Australia,03 9329 1933,,https://www.thebasketcase.com.au
+142,129,Renaissance IGA Hawthon Square,"102 Burwood Rd, Hawthorn VIC 3122",VIC,3122,Australia,(03) 9818 9503,,https://renshop.com.au/
+143,130,Renaissance IGA Glenferrie Hawthorn,"550 Glenferrie Rd, Hawthorn VIC 3122",VIC,3122,Australia,(03) 9818 5218,,https://renshop.com.au/
+144,131,IGA Northcote,"284-288 High St, Northcote VIC 3070",VIC,3070,Australia,(03) 9481 3411,,http://northcoteiga.com.au/
+145,132,Choc Haven,"37 Kitchener Street, Melbourne, VIC, 2600",VIC,,Australia,61 2 9524 8331,,
+146,133,Go Vita,"Lvl8/ 15 London Cct, Melbourne, VIC 2600",VIC,2600,Australia,(02) 6249 1444,,
+147,134,The Lolly Shop,"34 Marcus Clarke St, Melbourne, VIC 2601",VIC,2601,Australia,(02) 6169 5074,,
+148,135,Deli Alemente,"Manuka Terrace, cnr Franklin Street & Flinders Way, Manuka",ACT,,Australia,(02) 6239 6186,,
+149,136,Deli Cravings,Shop 15 Belconnen Fresh Food Markets Lathlain Street Belconnen ACT 2617,ACT,2617,Australia,6251 4056,,http://www.delicravings.com.au/
+150,137,Deli Planet,"Fyshwick Markets, 12 Dalby St, Fyshwick ACT 2609",ACT,2609,Australia,02 6295 8067,,http://www.deliplanet.net.au
+151,138,Down Town Milk Bar,Franklin St Manuka ACT 2603,ACT,2603,Australia,(02) 6295 8034,,
+152,139,Go Vita,Shop G88 Woden Westfield WODEN ACT 2606,ACT,2606,Australia,02 6281-5274,,http://www.govita.com.au/
+153,140,Hansel and Gretal,40 Townshend Street PHILLIP ACT 2606,ACT,2606,Australia,02 6282 5009,,http://hanselandgretel.net.au/
+154,141,Healthy Life,"Shop EG05 (Fresh Food Court, Ground floor) Bunda Street Civic ACT 2601",ACT,2601,Australia,02 6249 8251,,http://www.healthylife.net.au/find-a-store/healthy-life-canberra-centre/
+155,86,IGA Kingston,"66 Giles Street, Kingston, ACT 2604",ACT,2604,Australia,N/A,,http://stores.iga.com.au/store/iga-kingston-2.html
+156,142,The Lolly Shop,"Federation Square, O’Hanlon Place, Nicholls 2913",ACT,,Australia,6230 2556,,
+157,88,Davies Chocolates Pty Ltd,"181 Kingsgrove Rd, Kingsgrove, ACT, 2609",ACT,,Australia,+61 2 9502 2811,,https://daveschocolates.com.au
+158,143,Choc Haven,"37 Kitchener Street, Canberra, ACT, 2600",ACT,,Australia,61 2 9524 8331,,https://info@tqintertrade.com.au
+159,144,Go Vita,"Lvl8/ 15 London Cct, Canberra, ACT 2600",ACT,2600,Australia,(02) 6249 1444,,
+160,145,The Lolly Shop,"34 Marcus Clarke St, Canberra, ACT 2601",ACT,2601,Australia,(02) 6169 5074,,http://www.govita.com.au/
+161,119,Spoonful,"543A High St, Prahran, ACT 3181",ACT,3181,Australia,03 9521 5212,,https://spoonful.net.au
+162,146,Stringers Stores Sorento,"2-8 Ocean Beach Road, Sorrento, ACT 3943",ACT,3943,Australia,03 5984 2010,,
+163,121,Taffys on Looker Cafe,"15 Looker Road, Montmorency, ACT 3094",ACT,3094,Australia,03 9439 5196,,https://www.taffysonlooker.com
+164,122,Choc Haven,"37 Kitchener Street, Canberra, ACT, 2600",ACT,,Australia,61 2 9524 8331,,https://www.thechocolatekettle.com.au
+165,147,Go Vita,"Lvl8/ 15 London Cct, Canberra, ACT 2600",ACT,2600,Australia,(02) 6249 1444,,
+166,124,The Lolly Shop,"34 Marcus Clarke St, Canberra, ACT 2601",ACT,2601,Australia,(02) 6169 5074,,https://www.thenewtownprovedore.com.au
+167,125,The Pantry,"Shop 10, 750 Collins St, Melbourne, ACT 3008",ACT,3008,Australia,03 9670 7425,,https://thepantry.com.au
+168,126,4 Cousins,"363-383 Nepean Hwy, Parkdale ACT 3195",ACT,3195,Australia,(03) 9580 0591,,http://www.4cousins.com.au/
+169,127,The Produce Store,"68 High St, Mansfield ACT 3722",ACT,3722,Australia,(03) 5779 1404,,https://www.theproducestore.com.au
+170,128,The Complete Basketcase,,ACT,,Australia,03 9329 1933,,https://www.thebasketcase.com.au
+171,129,Renaissance IGA Hawthon Square,"102 Burwood Rd, Hawthorn ACT 3122",ACT,3122,Australia,(03) 9818 9503,,https://renshop.com.au/
+172,148,Pure Indulgence Fine Chocolates,"Shop 9, Star Village Arcade, Smith St, The Mall, Darwin, Northern Territory 0800",NT,,Australia,(08) 8981 2947,,
+173,149,Chocolate Stop,"83/ 9 Carey St, Darwin, NT 0800",NT,0800,Australia,(08) 8942 2012,,https://Coriental.com.au
+174,150,Heavenly,"19 Finniss St, Darwin, NT 0800",NT,0800,Australia,0411 579 514,,
+175,151,"Darrell Lea, Darwin","24 Harvey St, Darwin, NT 0800",NT,0800,Australia,(08) 8981 1193,,
+176,152,Favourite Flavours,"81 Cavenagh St, Darwin, NT 0800",NT,0800,Australia,0411 578 052,,

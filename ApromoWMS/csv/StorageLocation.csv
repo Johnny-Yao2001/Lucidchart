@@ -1,0 +1,5 @@
+LocationID,WarehouseID,LocationCode,ZoneType,MinTempC,MaxTempC,IsActive
+1,1,SYD-A01,DEMO chocolate zone,15.00,20.00,1
+2,1,SYD-A02,DEMO chocolate zone,15.00,20.00,1
+3,2,MEL-A01,DEMO chocolate zone,15.00,20.00,1
+4,2,MEL-A02,DEMO chocolate zone,15.00,20.00,1

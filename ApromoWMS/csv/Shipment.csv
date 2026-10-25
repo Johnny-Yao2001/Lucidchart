@@ -1,0 +1,6 @@
+ShipmentID,SalesOrderID,DeliveryMethod,CarrierName,DispatchedAt,DeliveredAt,DeliveryTempC
+1,1,Own refrigerated van,,2026-03-09T09:00:00,2026-03-10T12:00:00,18.00
+2,2,Own refrigerated van,,2026-03-09T09:00:00,2026-03-11T12:00:00,18.00
+3,3,Cold-chain carrier,Kerry Logistics,2026-03-09T09:00:00,2026-03-10T14:00:00,18.00
+4,4,Own refrigerated van,,,,
+5,5,Own refrigerated van,,,,

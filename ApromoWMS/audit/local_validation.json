@@ -1,0 +1,15 @@
+{
+  "csv_tables_validated": 24,
+  "rows_validated": 2558,
+  "foreign_key_relationships_checked": 33,
+  "negative_cases_rejected": [
+    "orphan_foreign_key",
+    "negative_stock",
+    "batch_quantity_mismatch",
+    "verified_without_correct_quantity",
+    "cross_product_pick"
+  ],
+  "business_rule_sql_checks_generated": 13,
+  "fixture_metric_assertions": "passed",
+  "sql_server_execution": "NOT RUN: run the import on the user Windows SQL Server Express instance."
+}

@@ -1,0 +1,6 @@
+WorkerID,WarehouseID,WorkerName,EmploymentType
+1,1,DEMO Worker 1,Full-time
+2,1,DEMO Worker 2,Full-time
+3,2,DEMO Worker 3,Part-time
+4,2,DEMO Worker 4,Part-time
+5,1,DEMO Worker 5,Part-time
